@@ -1,7 +1,6 @@
 # API参考
 
----
-[TOC]
+
 ## AccountAPI
 
 - 获取币种列表
